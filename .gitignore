@@ -1,5 +1,8 @@
 #Ignore all xlsx files
 *.csv
+*.pkl
+*.zip
+
 
 
 ## Ignore Visual Studio temporary files, build results, and
